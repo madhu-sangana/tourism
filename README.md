@@ -21,4 +21,8 @@ perfect for showcasing travel services, galleries, and company information.
 
 ![Website Screenshot](https://github.com/madhu-sangana/tourism/blob/74794b46579c3a44b2ba1dc8cbfb9d5669dc9205/brave_screenshot%20(1).png )
 ![Website Screenshot](https://github.com/madhu-sangana/tourism/blob/cab2867bc78e904f152f6000598f1898d8130c86/assets/brave_screenshot.png)
+![Website Screenshot](https://github.com/madhu-sangana/tourism/blob/dc5570d472533ed501bfea1c671265b1a1354cd0/assets/Screenshot%202025-06-23%20222307.png)
+## for responsive
+![Website Screenshot](https://github.com/madhu-sangana/tourism/blob/dc5570d472533ed501bfea1c671265b1a1354cd0/assets/Screenshot%202025-06-23%20222903.png)
+![Website Screenshot](https://github.com/madhu-sangana/tourism/blob/dc5570d472533ed501bfea1c671265b1a1354cd0/assets/Screenshot%202025-06-23%20222932.png)
 
